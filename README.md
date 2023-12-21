@@ -32,9 +32,11 @@ December 2023
 
 ### Project Introduction
 
-The project is a multifunctional integrated OTC trading platform, dedicated to bridging offline transactions of Web3 onto the chain.  Meanwhile, through blockchain technology, it provides both buyers and sellers with stable guarantee services based on the blockchain, achieving mutual trust, reciprocity, and mutual benefit among users on the platform.The main services include OTC trading support in the c2c+otc mode, chain-based lotteries, and invitation-based commission distribution, among others.
+Our project belongs to the Dapp & Smart Contracts track and is a multi-functional integrated OTC trading platform.  It is committed to bridging offline transactions in Web3 to the chain, and providing blockchain-based stable guarantee services for buyers and sellers through blockchain technology, to achieve mutual trust, reciprocity and mutual benefit between users and the platform.The main services include c2c+otc mode of OTC support, chain lottery, invitation commission, etc.
 
-### Technical highlights
+### Technical Architecture
+
+<img src="./static/Technical Architecture.svg" alt="技术架构" style="zoom:200%;" />
 
 #### Hashlock
 
@@ -172,6 +174,12 @@ General Process：
 
 4. After the transaction is completed, buyers can participate in the creation or presale of NFT projects as usual, acquiring the NFT assets.The platform allows both parties to the transaction to evaluate each other, establishing a reputation system for the platform.
 
+
+
+#### **The spot trading of Pol-20 is similar to the basic process described above.  It is worth mentioning that there is currently no platform that supports spot trading of Pol-20. **
+
+
+
 The entire process is guaranteed by the platform to ensure secure transactions.Additionally, a friendly reminder is provided:The NFT whitelist trading is an emerging market, presenting certain risks.Before engaging in a transaction, buyers should carefully review the project information and select sellers with a reputable standing.The seller should ensure the authenticity and validity of the provided whitelist quotas.
 
 ### Project demo
@@ -234,7 +242,9 @@ Prepare clear and detailed introductory documents and user manuals.
 
 ### Link to large files such as PowerPoint presentations
 
+Demo YouTube show:
 
+https://www.youtube.com/watch?v=yNmXrcWoBhc
 
 ## API介绍
 
